@@ -58,7 +58,7 @@ A new controller class anmed ``` HelloController ``` will be created in a file n
 
 ## How to Test
 
-You can test the generated SDK and the server with automatically generated test
+You can test the Releans SDK and the server with automatically generated test
 cases as follows:
 
   1. From terminal/cmd navigate to the root directory of the SDK.
