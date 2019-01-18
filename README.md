@@ -2,6 +2,10 @@
 
 The Releans SDK enables developers to use Releans Services in their code. You can get started in minutes.
 
+## Create Releans Account
+
+First, [sign up for a Releans account](https://platform.releans.com/site/signup) if you don't already have one, and make a note of your API key on the dashboard API page.
+
 ## How to Build
 
 This client library is a Ruby gem which can be compiled and used in your Ruby and Ruby on Rails project. This library requires a few gems from the RubyGems repository.
